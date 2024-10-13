@@ -1,0 +1,15 @@
+C:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\Ativuidade Figuras Geométricas\bin\Debug\net8.0-windows\Ativuidade Figuras Geométricas.exe
+C:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\Ativuidade Figuras Geométricas\bin\Debug\net8.0-windows\Ativuidade Figuras Geométricas.deps.json
+C:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\Ativuidade Figuras Geométricas\bin\Debug\net8.0-windows\Ativuidade Figuras Geométricas.runtimeconfig.json
+C:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\Ativuidade Figuras Geométricas\bin\Debug\net8.0-windows\Ativuidade Figuras Geométricas.dll
+C:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\Ativuidade Figuras Geométricas\bin\Debug\net8.0-windows\Ativuidade Figuras Geométricas.pdb
+C:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\Ativuidade Figuras Geométricas\obj\Debug\net8.0-windows\Ativuidade Figuras Geométricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\Ativuidade Figuras Geométricas\obj\Debug\net8.0-windows\Ativuidade Figuras Geométricas.AssemblyInfoInputs.cache
+C:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\Ativuidade Figuras Geométricas\obj\Debug\net8.0-windows\Ativuidade Figuras Geométricas.AssemblyInfo.cs
+C:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\Ativuidade Figuras Geométricas\obj\Debug\net8.0-windows\Ativuidade Figuras Geométricas.csproj.CoreCompileInputs.cache
+C:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\Ativuidade Figuras Geométricas\obj\Debug\net8.0-windows\Ativuidade Figuras Geométricas.sourcelink.json
+C:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\Ativuidade Figuras Geométricas\obj\Debug\net8.0-windows\Ativuidade Figuras Geométricas.dll
+C:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\Ativuidade Figuras Geométricas\obj\Debug\net8.0-windows\refint\Ativuidade Figuras Geométricas.dll
+C:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\Ativuidade Figuras Geométricas\obj\Debug\net8.0-windows\Ativuidade Figuras Geométricas.pdb
+C:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\Ativuidade Figuras Geométricas\obj\Debug\net8.0-windows\Ativuidade Figuras Geométricas.genruntimeconfig.cache
+C:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\Ativuidade Figuras Geométricas\obj\Debug\net8.0-windows\ref\Ativuidade Figuras Geométricas.dll
