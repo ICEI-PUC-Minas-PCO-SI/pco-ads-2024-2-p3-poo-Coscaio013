@@ -1,7 +1,3 @@
-using System;
-using System.Drawing; // Certifique-se de ter isso importado para usar o Bitmap
-using System.Windows.Forms;
-
 namespace Ativuidade_Figuras_Geométricas
 {
     public partial class FigurasGeometricas : Form
@@ -10,7 +6,7 @@ namespace Ativuidade_Figuras_Geométricas
         {
             InitializeComponent();
             InicializarComponentesAdicionais();
-            this.Size = new Size(400, 500);
+            this.Size = new Size(400, 500); // Tamanho da tela
         }
 
         private void InicializarComponentesAdicionais()
@@ -63,7 +59,7 @@ namespace Ativuidade_Figuras_Geométricas
                 Top = 100,
                 Left = 220,
                 Width = 150,
-                Enabled = true 
+                Enabled = true
             };
             txtEntrada2.KeyPress += new KeyPressEventHandler(Numero_KeyPress);
             Controls.Add(lblEntrada2);
@@ -77,85 +73,103 @@ namespace Ativuidade_Figuras_Geométricas
             };
             Controls.Add(btnCalcular);
 
-            // Adicionando o PictureBox
             PictureBox pictureBoxForma = new PictureBox
             {
                 Top = 200,
                 Left = 20,
                 Width = 150,
                 Height = 150,
-                SizeMode = PictureBoxSizeMode.StretchImage 
+                SizeMode = PictureBoxSizeMode.StretchImage
             };
             Controls.Add(pictureBoxForma);
 
             cbFormas.SelectedIndexChanged += (sender, e) =>
             {
-                if (cbFormas.SelectedItem.ToString() == "Círculo" || cbFormas.SelectedItem.ToString() == "Octágono")
+                string formaSelecionada = cbFormas.SelectedItem.ToString();
+
+                if (formaSelecionada == "Quadrado" || formaSelecionada == "Hexágono" || formaSelecionada == "Pentágono" || formaSelecionada == "Pentágono"|| formaSelecionada == "Octágono")
                 {
-                    txtEntrada2.Enabled = false; 
-                    txtEntrada2.Text = ""; 
+                    txtEntrada2.Enabled = false;
+                    txtEntrada2.Text = "";
+                    lblEntrada1.Text = "Lado:";
                 }
+                else if (formaSelecionada == "Círculo")
+                {
+                    txtEntrada2.Enabled = false;
+                    txtEntrada2.Text = "";
+                    lblEntrada1.Text = "Raio:";
+                }
+
                 else
                 {
-                    txtEntrada2.Enabled = true; 
+                    lblEntrada1.Text = "Base:";
+                    txtEntrada2.Enabled = true;
                 }
+
             };
 
             btnCalcular.Click += (sender, e) =>
-            {
-                if (cbFormas.SelectedItem == null)
                 {
-                    MessageBox.Show("Por favor, selecione uma forma.");
-                    return;
-                }
+                    if (cbFormas.SelectedItem == null)
+                    {
+                        MessageBox.Show("Por favor, selecione uma forma.");
+                        return;
 
-                string formaSelecionada = cbFormas.SelectedItem.ToString();
-                double valor1 = double.TryParse(txtEntrada1.Text, out double v1) ? v1 : 0;
-                double valor2 = double.TryParse(txtEntrada2.Text, out double v2) ? v2 : 0;
+                    }
 
-                Forma forma = null;
+                    if (string.IsNullOrWhiteSpace(txtEntrada1.Text) || (lblEntrada1.Text != "Raio:" && string.IsNullOrWhiteSpace(txtEntrada2.Text)))
+                    {
+                        MessageBox.Show("Por favor, preencha com valores válidos.");
+                        return;
+                    }
 
-                switch (formaSelecionada)
-                {
-                    case "Quadrado":
-                        forma = new Quadrado(valor1);
-                        break;
-                    case "Retângulo":
-                        forma = new Retangulo(valor1, valor2);
-                        break;
-                    case "Triângulo":
-                        forma = new Triangulo(valor1, valor2);
-                        break;
-                    case "Círculo":
-                        forma = new Circulo(valor1);
-                        break;
-                    case "Hexágono":
-                        forma = new Hexagono(valor1);
-                        break;
-                    case "Pentágono":
-                        forma = new Pentagono(valor1);
-                        break;
-                    case "Octágono":
-                        forma = new Octagono(valor1); 
-                        break;
-                }
+                    string formaSelecionada = cbFormas.SelectedItem.ToString();
+                    double valor1 = double.TryParse(txtEntrada1.Text, out double v1) ? v1 : 0;
+                    double valor2 = double.TryParse(txtEntrada2.Text, out double v2) ? v2 : 0;
 
-                if (forma != null)
-                {
-                    string resultado = forma.Mostrar();
-                    MessageBox.Show(resultado, "Resultados");
-                    pictureBoxForma.Image = LoadImage(forma.CaminhoImagem);
-                }
-            };
+                    Forma forma = null;
+
+                    switch (formaSelecionada)
+                    {
+                        case "Quadrado":
+                            forma = new Quadrado(valor1);
+                            break;
+                        case "Retângulo":
+                            forma = new Retangulo(valor1, valor2);
+                            break;
+                        case "Triângulo":
+                            forma = new Triangulo(valor1, valor2);
+                            break;
+                        case "Círculo":
+                            forma = new Circulo(valor1);
+                            break;
+                        case "Hexágono":
+                            forma = new Hexagono(valor1);
+                            break;
+                        case "Pentágono":
+                            forma = new Pentagono(valor1);
+                            break;
+                        case "Octágono":
+                            forma = new Octagono(valor1);
+                            break;
+                    }
+
+                    if (forma != null)
+                    {
+                        string resultado = forma.Mostrar();
+                        MessageBox.Show(resultado, "Resultados");
+                        pictureBoxForma.Image = LoadImage(forma.CaminhoImagem);
+                    }
+                };
         }
 
-        // Método para permitir apenas números
+        // permitir entrada apenas de números
         private void Numero_KeyPress(object sender, KeyPressEventArgs e)
         {
-            // Verifica se o caractere digitado não é um número e não é um caractere de controle
+
             if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
             {
-                e.Handled = true; // Impede a digitação do caractere
+                e.Handled = true;
             }
         }
 
@@ -168,7 +182,7 @@ namespace Ativuidade_Figuras_Geométricas
             catch (Exception ex)
             {
                 MessageBox.Show($"Erro ao carregar a imagem: {ex.Message}");
-                return null; 
+                return null;
             }
         }
     }
