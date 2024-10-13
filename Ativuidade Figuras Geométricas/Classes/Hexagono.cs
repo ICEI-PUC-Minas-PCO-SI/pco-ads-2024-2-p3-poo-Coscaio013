@@ -9,6 +9,7 @@ namespace Ativuidade_Figuras_Geométricas
         public Hexagono(double lado)
         {
             this.lado = lado;
+            CaminhoImagem = @"Classes\img\Hexagono.png";
         }
 
         public override double CalcularArea()
@@ -23,7 +24,7 @@ namespace Ativuidade_Figuras_Geométricas
 
         public override string Mostrar()
         {
-            return base.Mostrar() + $"\nÁrea: {CalcularArea():F2}\nPerímetro: {CalcularPerimetro():F2}\nImagem: [imagem do hexágono]";
+            return base.Mostrar() + $"\nÁrea: {CalcularArea():F2}\nPerímetro: {CalcularPerimetro():F2}";
         }
     }
 }

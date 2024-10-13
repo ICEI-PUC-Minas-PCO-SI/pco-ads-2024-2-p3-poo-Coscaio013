@@ -5,6 +5,7 @@ public class Circulo : Forma
     public Circulo(double raio)
     {
         this.raio = raio;
+        CaminhoImagem = @"Classes\img\Circulo.png";
     }
 
     public override double CalcularArea()
@@ -19,11 +20,6 @@ public class Circulo : Forma
 
     public override string Mostrar()
     {
-        return base.Mostrar() + $"\nÁrea: {CalcularArea():F2}\nPerímetro: {CalcularPerimetro():F2}";
-    }
-
-    public Bitmap ObterImagem()
-    {
-        return new Bitmap(@"C:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\Ativuidade Figuras Geométricas\Classes\img\Circulo.png");
+        return base.Mostrar() + $"\nRaio: {raio}\nÁrea: {CalcularArea():F2}\nPerímetro: {CalcularPerimetro():F2}";
     }
 }

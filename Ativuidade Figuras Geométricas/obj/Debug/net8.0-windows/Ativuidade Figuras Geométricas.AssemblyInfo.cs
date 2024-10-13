@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ativuidade Figuras Geométricas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b0cf177258e15d54213c48b42169092266a6afb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ce97db5652b66a3c5cea52184260fcab95b184a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ativuidade Figuras Geométricas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ativuidade Figuras Geométricas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
