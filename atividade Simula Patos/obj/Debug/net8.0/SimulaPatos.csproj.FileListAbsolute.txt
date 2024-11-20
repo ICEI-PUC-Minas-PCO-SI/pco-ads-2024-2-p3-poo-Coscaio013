@@ -1,0 +1,30 @@
+c:\Users\caiof\Desktop\Projetos\POO\Simula patos\POO-SimulaPatos\bin\Debug\net8.0\SimulaPatos.exe
+C:\Users\caiof\Desktop\Projetos\POO\Simula patos\POO-SimulaPatos\bin\Debug\net8.0\SimulaPatos.deps.json
+C:\Users\caiof\Desktop\Projetos\POO\Simula patos\POO-SimulaPatos\bin\Debug\net8.0\SimulaPatos.runtimeconfig.json
+c:\Users\caiof\Desktop\Projetos\POO\Simula patos\POO-SimulaPatos\bin\Debug\net8.0\SimulaPatos.dll
+c:\Users\caiof\Desktop\Projetos\POO\Simula patos\POO-SimulaPatos\bin\Debug\net8.0\SimulaPatos.pdb
+c:\Users\caiof\Desktop\Projetos\POO\Simula patos\POO-SimulaPatos\obj\Debug\net8.0\SimulaPatos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\caiof\Desktop\Projetos\POO\Simula patos\POO-SimulaPatos\obj\Debug\net8.0\SimulaPatos.AssemblyInfoInputs.cache
+c:\Users\caiof\Desktop\Projetos\POO\Simula patos\POO-SimulaPatos\obj\Debug\net8.0\SimulaPatos.AssemblyInfo.cs
+c:\Users\caiof\Desktop\Projetos\POO\Simula patos\POO-SimulaPatos\obj\Debug\net8.0\SimulaPatos.csproj.CoreCompileInputs.cache
+c:\Users\caiof\Desktop\Projetos\POO\Simula patos\POO-SimulaPatos\obj\Debug\net8.0\SimulaPatos.sourcelink.json
+c:\Users\caiof\Desktop\Projetos\POO\Simula patos\POO-SimulaPatos\obj\Debug\net8.0\SimulaPatos.dll
+c:\Users\caiof\Desktop\Projetos\POO\Simula patos\POO-SimulaPatos\obj\Debug\net8.0\refint\SimulaPatos.dll
+c:\Users\caiof\Desktop\Projetos\POO\Simula patos\POO-SimulaPatos\obj\Debug\net8.0\SimulaPatos.pdb
+C:\Users\caiof\Desktop\Projetos\POO\Simula patos\POO-SimulaPatos\obj\Debug\net8.0\SimulaPatos.genruntimeconfig.cache
+C:\Users\caiof\Desktop\Projetos\POO\Simula patos\POO-SimulaPatos\obj\Debug\net8.0\ref\SimulaPatos.dll
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\atividade Simula Patos\obj\Debug\net8.0\SimulaPatos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\atividade Simula Patos\obj\Debug\net8.0\SimulaPatos.AssemblyInfoInputs.cache
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\atividade Simula Patos\obj\Debug\net8.0\SimulaPatos.AssemblyInfo.cs
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\atividade Simula Patos\obj\Debug\net8.0\SimulaPatos.csproj.CoreCompileInputs.cache
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\atividade Simula Patos\obj\Debug\net8.0\SimulaPatos.sourcelink.json
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\atividade Simula Patos\obj\Debug\net8.0\SimulaPatos.dll
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\atividade Simula Patos\obj\Debug\net8.0\refint\SimulaPatos.dll
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\atividade Simula Patos\obj\Debug\net8.0\SimulaPatos.pdb
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\atividade Simula Patos\bin\Debug\net8.0\SimulaPatos.exe
+C:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\atividade Simula Patos\bin\Debug\net8.0\SimulaPatos.deps.json
+C:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\atividade Simula Patos\bin\Debug\net8.0\SimulaPatos.runtimeconfig.json
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\atividade Simula Patos\bin\Debug\net8.0\SimulaPatos.dll
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\atividade Simula Patos\bin\Debug\net8.0\SimulaPatos.pdb
+C:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\atividade Simula Patos\obj\Debug\net8.0\SimulaPatos.genruntimeconfig.cache
+C:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\atividade Simula Patos\obj\Debug\net8.0\ref\SimulaPatos.dll

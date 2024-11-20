@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Atividade Herança (Veículos)")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("SimulaPatos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1733829deb3daaa33dfe3843641ea70458876c34")]
-[assembly: System.Reflection.AssemblyProductAttribute("Atividade Herança (Veículos)")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Atividade Herança (Veículos)")]
+[assembly: System.Reflection.AssemblyProductAttribute("SimulaPatos")]
+[assembly: System.Reflection.AssemblyTitleAttribute("SimulaPatos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
