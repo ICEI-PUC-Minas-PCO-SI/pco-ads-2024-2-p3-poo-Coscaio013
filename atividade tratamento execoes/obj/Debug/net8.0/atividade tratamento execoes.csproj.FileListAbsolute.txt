@@ -1,0 +1,15 @@
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\atividade tratamento execoes\bin\Debug\net8.0\atividade tratamento execoes.exe
+C:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\atividade tratamento execoes\bin\Debug\net8.0\atividade tratamento execoes.deps.json
+C:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\atividade tratamento execoes\bin\Debug\net8.0\atividade tratamento execoes.runtimeconfig.json
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\atividade tratamento execoes\bin\Debug\net8.0\atividade tratamento execoes.dll
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\atividade tratamento execoes\bin\Debug\net8.0\atividade tratamento execoes.pdb
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\atividade tratamento execoes\obj\Debug\net8.0\atividade tratamento execoes.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\atividade tratamento execoes\obj\Debug\net8.0\atividade tratamento execoes.AssemblyInfoInputs.cache
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\atividade tratamento execoes\obj\Debug\net8.0\atividade tratamento execoes.AssemblyInfo.cs
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\atividade tratamento execoes\obj\Debug\net8.0\atividade tratamento execoes.csproj.CoreCompileInputs.cache
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\atividade tratamento execoes\obj\Debug\net8.0\atividade tratamento execoes.sourcelink.json
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\atividade tratamento execoes\obj\Debug\net8.0\atividade tratamento execoes.dll
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\atividade tratamento execoes\obj\Debug\net8.0\refint\atividade tratamento execoes.dll
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\atividade tratamento execoes\obj\Debug\net8.0\atividade tratamento execoes.pdb
+C:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\atividade tratamento execoes\obj\Debug\net8.0\atividade tratamento execoes.genruntimeconfig.cache
+C:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\atividade tratamento execoes\obj\Debug\net8.0\ref\atividade tratamento execoes.dll
