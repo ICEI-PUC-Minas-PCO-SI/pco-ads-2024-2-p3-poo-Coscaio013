@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Atividade Herança (Veículos)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86ab9fe928a45bb0810dbc7d30290edfc0bc43ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb9e71d60bbdad0169f51188af26a394707a6d80")]
 [assembly: System.Reflection.AssemblyProductAttribute("Atividade Herança (Veículos)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Atividade Herança (Veículos)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

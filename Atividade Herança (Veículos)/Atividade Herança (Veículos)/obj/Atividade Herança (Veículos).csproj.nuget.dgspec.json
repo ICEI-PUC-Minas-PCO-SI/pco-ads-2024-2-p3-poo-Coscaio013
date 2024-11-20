@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\caiof\\github-classroom\\ICEI-PUC-Minas-PCO-SI\\pco-ads-2024-2-p3-poo-Coscaio013\\Atividade Herança (Veículos)\\Atividade Herança (Veículos)\\Atividade Herança (Veículos).csproj": {}
+    "C:\\Users\\caiof\\Desktop\\Projetos\\POO\\pco-ads-2024-2-p3-poo-Coscaio013\\Atividade Herança (Veículos)\\Atividade Herança (Veículos)\\Atividade Herança (Veículos).csproj": {}
   },
   "projects": {
-    "C:\\Users\\caiof\\github-classroom\\ICEI-PUC-Minas-PCO-SI\\pco-ads-2024-2-p3-poo-Coscaio013\\Atividade Herança (Veículos)\\Atividade Herança (Veículos)\\Atividade Herança (Veículos).csproj": {
+    "C:\\Users\\caiof\\Desktop\\Projetos\\POO\\pco-ads-2024-2-p3-poo-Coscaio013\\Atividade Herança (Veículos)\\Atividade Herança (Veículos)\\Atividade Herança (Veículos).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\caiof\\github-classroom\\ICEI-PUC-Minas-PCO-SI\\pco-ads-2024-2-p3-poo-Coscaio013\\Atividade Herança (Veículos)\\Atividade Herança (Veículos)\\Atividade Herança (Veículos).csproj",
+        "projectUniqueName": "C:\\Users\\caiof\\Desktop\\Projetos\\POO\\pco-ads-2024-2-p3-poo-Coscaio013\\Atividade Herança (Veículos)\\Atividade Herança (Veículos)\\Atividade Herança (Veículos).csproj",
         "projectName": "Atividade Herança (Veículos)",
-        "projectPath": "C:\\Users\\caiof\\github-classroom\\ICEI-PUC-Minas-PCO-SI\\pco-ads-2024-2-p3-poo-Coscaio013\\Atividade Herança (Veículos)\\Atividade Herança (Veículos)\\Atividade Herança (Veículos).csproj",
+        "projectPath": "C:\\Users\\caiof\\Desktop\\Projetos\\POO\\pco-ads-2024-2-p3-poo-Coscaio013\\Atividade Herança (Veículos)\\Atividade Herança (Veículos)\\Atividade Herança (Veículos).csproj",
         "packagesPath": "C:\\Users\\caiof\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\caiof\\github-classroom\\ICEI-PUC-Minas-PCO-SI\\pco-ads-2024-2-p3-poo-Coscaio013\\Atividade Herança (Veículos)\\Atividade Herança (Veículos)\\obj\\",
+        "outputPath": "C:\\Users\\caiof\\Desktop\\Projetos\\POO\\pco-ads-2024-2-p3-poo-Coscaio013\\Atividade Herança (Veículos)\\Atividade Herança (Veículos)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
