@@ -1,0 +1,15 @@
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\Delegate\bin\Debug\net8.0\Delegate.exe
+C:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\Delegate\bin\Debug\net8.0\Delegate.deps.json
+C:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\Delegate\bin\Debug\net8.0\Delegate.runtimeconfig.json
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\Delegate\bin\Debug\net8.0\Delegate.dll
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\Delegate\bin\Debug\net8.0\Delegate.pdb
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\Delegate\obj\Debug\net8.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfoInputs.cache
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfo.cs
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\Delegate\obj\Debug\net8.0\Delegate.csproj.CoreCompileInputs.cache
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\Delegate\obj\Debug\net8.0\Delegate.sourcelink.json
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\Delegate\obj\Debug\net8.0\Delegate.dll
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\Delegate\obj\Debug\net8.0\refint\Delegate.dll
+c:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\Delegate\obj\Debug\net8.0\Delegate.pdb
+C:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\Delegate\obj\Debug\net8.0\Delegate.genruntimeconfig.cache
+C:\Users\caiof\Desktop\Projetos\POO\pco-ads-2024-2-p3-poo-Coscaio013\Delegate\obj\Debug\net8.0\ref\Delegate.dll
